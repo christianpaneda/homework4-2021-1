@@ -116,7 +116,7 @@ tr:nth-child(odd) {
   background-color: transparent;
 }
 
-table tr:hover {
+tr:hover {
   background-color: rgba(126,8,37,.25);
 }
 
